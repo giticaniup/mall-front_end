@@ -1,0 +1,11 @@
+<template>
+  <p>
+    Classify Page.
+  </p>
+</template>
+<script>
+  import wepy from 'wepy';
+  export default class Classify extends wepy.page{
+
+  }
+</script>

@@ -1,0 +1,11 @@
+<template>
+  <p>
+    Info Page
+  </p>
+</template>
+<script>
+  import wepy from 'wepy';
+  export default class Info extends wepy.page{
+
+  }
+</script>
